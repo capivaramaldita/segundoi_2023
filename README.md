@@ -1,4 +1,4 @@
-# segundoi
+# segundoi.gastao
 
 # TEMA
 falta de conhecimento financeiro nos jovens
