@@ -1,13 +1,14 @@
-.cabecalho{
-   background:#f85931 ;
-   color:#eb9605 ;
-   width: 400px;
-   height: 200px;
+:root{--cor1:#eb9605:
+      --cor2:#d2d2d2;
+
+
+
 }
-
-.secao{
-   background:#d2d2d2 ;
+body{background-color: var(--cor1);
 
 
+}
+*{margin: 0;
+  padding: 0;
 
 }
