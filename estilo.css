@@ -1,12 +1,13 @@
-:root{--cor1:#eb9605:
+:root{--cor1:#eb9605;
       --cor2:#d2d2d2;
-
-
+      --cor3:#fffeb0;
+      --cor4:#000000;
 
 }
+
 body{background-color: var(--cor1);
-
-
+    background-image: linear-gradient(--cor1,--cor2);
+   
 }
 *{margin: 0;
   padding: 0;
