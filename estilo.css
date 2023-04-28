@@ -1,6 +1,6 @@
-:root{--cor1:#eb9605;
-      --cor2:#d2d2d2;
-      --cor3:#fffeb0;
+:root{--cor1:#b9d9b4;
+      --cor2:#403b33;
+      --cor3:#288d85;
       --cor4:#000000;
 
 }
@@ -25,5 +25,5 @@
   height: 100%;
   width: 10%;
   background-color: var(--cor1);
-
+  
 }
