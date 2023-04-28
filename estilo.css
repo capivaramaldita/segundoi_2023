@@ -12,17 +12,19 @@
         height: 25%;
         width: 100%;
         background-color: var(--cor2);
+        color: white;
 
 }
 .texto{
   height: 65%;
   width: 100%;
   background-color: var(--cor3);
+  color: white;
 
 }
 .baixo{
   height: 10%;
   width: 100%;
   background-color: var(--cor1);
-  
+  color: black;
 }
