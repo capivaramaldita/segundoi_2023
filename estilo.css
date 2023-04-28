@@ -10,20 +10,20 @@
 }
    
 .cabecalho{
-        height: 100%;
-        width: 25%;
+        height: 25%;
+        width: 100%;
         background-color: var(--cor2);
 
 }
 .texto{
-  height: 100%;
-  width: 65%;
+  height: 65%;
+  width: 100%;
   background-color: var(--cor3);
 
 }
 .baixo{
-  height: 100%;
-  width: 10%;
+  height: 10%;
+  width: 100%;
   background-color: var(--cor1);
   
 }
